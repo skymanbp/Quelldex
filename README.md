@@ -167,16 +167,6 @@ quelldex/
 
 ---
 
-## Screenshots
-
-> Add screenshots here after first build
-
-| Dark Theme | Light Theme | Midnight Theme |
-|------------|-------------|----------------|
-| ![Dark](docs/dark.png) | ![Light](docs/light.png) | ![Midnight](docs/midnight.png) |
-
----
-
 ## Contributing
 
 Contributions welcome. Please open an issue first to discuss what you'd like to change.
